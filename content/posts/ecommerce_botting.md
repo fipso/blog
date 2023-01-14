@@ -1,7 +1,7 @@
 ---
 title: How ecommerce (sneaker buying) bots actually work [Part 1/2]
 description: In this post I try to explain why building ecommerce shopping bots is actually hard
-date: 2022-08-22T20:00:00+02:00
+date: 2023-01-14T11:00:00+02:00
 draft: false
 tags: [bots, reverse engineering, web dev]
 ---
