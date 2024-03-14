@@ -18,6 +18,7 @@ tags: [linux, server, hosting, web dev]
 - [Netcup](https://www.netcup.eu/vserver/) S-Tier kvm server provider. Good prices for decent hardware/uplink
 - [Hetzner](https://www.hetzner.com/dedicated-rootserver/matrix-ax) Has tons of cheap dedicated servers. Hetzner also provides a cloud service + API
 - [Host.ag](https://www.host.ag/) Affordable bare metal in Sofia (Bulgaria)
+- [Strato](https://www.strato.de) Worst order process I have ever seen. They send you a letter with a verification code (takes 3 days). You then need to call them by phone to pass the verify code to a strato employee. 20min wait time till first employee picks up the call (robot voice said 5min wait time max). Then you get forwarded to the next guy and thats where I quit. This is so fucking hilarious. Worst customer experience ever.
 
 ## Webhosting
 - [Netlify](https://www.netlify.com/) Amazing free tier plan for static websites
@@ -33,4 +34,5 @@ Some downsides I have experienced:
 // TODO: Do a more serious post where i talk/rant about vercel/next.js  
 
 Change Log:
+- 14.02.2023 11:40 GMT+2: Add strato review
 - 28.05.2023 22:30 GMT+2: Rewrite serverless rant & add more providers
