@@ -42,9 +42,9 @@ By reading all of this you probably now understand that running your own lets sa
     - Quicknode offers "backfilling" where you can run code near their DB, but the pricing is ridiculous
 - Even running non-validator nodes yourself helps the P2P network grow
 - Talk to the node via (Unix Domain) IPCs sockets (no TCP overhead)
-    - Profit is questionable because because most client libs suck at IPC
+    - Profit is questionable because most client libs suck at IPC
 
 ## Introducing BLAZED.sh
-So I think there is certainly a need for having a \<Insert Chain here\> RPC Node hosting service that allows you to run your own code directly on the same server that also runs the node. You have all the advantages of a node you got ssh access to + its not that expensive because the service is doing multi tenant shared hosting.
+So I think there is certainly a need for having a \<Insert Chain here\> RPC Node hosting service that allows you to run your own code directly on the same server that also runs the node. You have all the advantages of a node you got ssh access to + its not that expensive, because the service is doing multi tenant shared hosting.
   
 I spent a lot of time while doing my bachelors degree looking for untrusted code execution solutions and orchestrators to build such a PaaS (Platform as a Service). Right now I want to offer OCI (docker) container deployments onto synced up ETH nodes and also JS script execution. If such a service sounds useful to you, you should definitely checkout [BLAZED.sh](https://blazed.sh) 
